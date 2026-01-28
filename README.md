@@ -13,4 +13,8 @@ a barra pudesse ser dinâmica e cheia de vida.
 ## Preview do Projeto
 ![ Preview do Projeto inicial ](./assets/preview-1.png)
 
+Nesse caso, o programa busca todos os arquivos que estão dentro da Home do usuário.
+
 ![ Preview 2 do Projeto inicial ](./assets/preview-2.png)
+
+E quando finalizado, a barra continua mostrando na tela para o usuário.
