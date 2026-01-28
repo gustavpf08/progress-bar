@@ -11,6 +11,6 @@ a barra pudesse ser dinâmica e cheia de vida.
 <hr>
 
 ## Preview do Projeto
-![ Preview do Projeto inicial ](./assets/preview-1)
+![ Preview do Projeto inicial ](./assets/preview-1.png)
 
-![ Preview 2 do Projeto inicial ](./assets/preview-2)
+![ Preview 2 do Projeto inicial ](./assets/preview-2.png)
